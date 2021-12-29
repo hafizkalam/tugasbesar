@@ -1,0 +1,27 @@
+body{
+    font-family: helvetica;
+    background-color: whitesmoke;
+}
+
+div a{
+    color: rgb;
+}
+
+
+.biodata img{
+    width: 250px;
+}
+
+.center { 
+    height: 200px;
+    position: relative;
+  }
+  
+  .center table {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
