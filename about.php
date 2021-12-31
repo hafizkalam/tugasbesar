@@ -36,7 +36,7 @@
         <h3>About Us</h3>
     </div>
 
-    <div class="row">
+    <!-- <div class="row">
     <div class="biodata col-sm-6">
     <div class="center">
     <table>
@@ -67,7 +67,7 @@
                 <td> D4 Teknik Informatika</td>
             </tr>
         </table>
-</div>
+</div> -->
  
     </div>
 
